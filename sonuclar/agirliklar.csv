@@ -1,0 +1,9 @@
+﻿,Doğrusal (w),Lojistik (w)
+Pregnancies,0.0481,0.3031
+Glucose,0.2091,1.1928
+BloodPressure,-0.0074,-0.0726
+SkinThickness,-0.0041,-0.0179
+Insulin,-0.0047,-0.0414
+BMI,0.0979,0.6358
+DiabetesPedigreeFunction,0.0393,0.2418
+Age,0.0249,0.152
