@@ -1,0 +1,21 @@
+﻿Tohum,Model,Accuracy,Recall,F1,AUC
+1,Doğrusal Regresyon,0.7403,0.5556,0.6,0.8231
+1,Lojistik Regresyon,0.7403,0.5556,0.6,0.8254
+2,Doğrusal Regresyon,0.7922,0.5741,0.6596,0.8254
+2,Lojistik Regresyon,0.7922,0.5926,0.6667,0.8237
+3,Doğrusal Regresyon,0.7857,0.6111,0.6667,0.8509
+3,Lojistik Regresyon,0.7857,0.6296,0.6733,0.8489
+4,Doğrusal Regresyon,0.7532,0.4815,0.5778,0.8389
+4,Lojistik Regresyon,0.7597,0.5,0.5934,0.8389
+5,Doğrusal Regresyon,0.7792,0.5185,0.6222,0.8517
+5,Lojistik Regresyon,0.7727,0.537,0.6237,0.8504
+6,Doğrusal Regresyon,0.7532,0.537,0.6042,0.8511
+6,Lojistik Regresyon,0.7662,0.5741,0.6327,0.8507
+7,Doğrusal Regresyon,0.7532,0.4815,0.5778,0.8322
+7,Lojistik Regresyon,0.7532,0.4815,0.5778,0.8348
+8,Doğrusal Regresyon,0.7468,0.5926,0.6214,0.7952
+8,Lojistik Regresyon,0.7468,0.5926,0.6214,0.7931
+9,Doğrusal Regresyon,0.7597,0.5741,0.6263,0.7607
+9,Lojistik Regresyon,0.7468,0.5556,0.6061,0.7598
+10,Doğrusal Regresyon,0.8052,0.5556,0.6667,0.882
+10,Lojistik Regresyon,0.8052,0.5556,0.6667,0.8843
